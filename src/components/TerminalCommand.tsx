@@ -302,7 +302,7 @@ ${contact.twitter ? `TWITTER=${contact.twitter}` : '# TWITTER=disabled'}`}
               ></textarea>
             </div>
             <button type="button" className="terminal-button">
-              > transmit_message
+              {"> "}transmit_message
             </button>
           </form>
         </div>

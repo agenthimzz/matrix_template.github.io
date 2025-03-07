@@ -39,7 +39,7 @@ const NotFound = () => {
           href="/" 
           className="terminal-button inline-block"
         >
-          > Return to Main Terminal
+          {"> "}Return to Main Terminal
         </a>
       </div>
     </div>
